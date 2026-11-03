@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou a Lara 👋
 
-<!--
-**LarAraujo17/LarAraujo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento **Full Stack**. Aprendendo na prática, um projeto por vez.
 
-Here are some ideas to get you started:
+## 🛠️ Ferramentas e tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,php,c,cpp" />
+
+**Back-end e Mobile**
+
+<img src="https://skillicons.dev/icons?i=nodejs,react" />
+
+React Native
+
+**Banco de dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0A66C2?style=for-the-badge)
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/lara-de-araujo)
